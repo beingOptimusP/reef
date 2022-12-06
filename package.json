@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "reef": "^0.0.1",
+    "truffle": "^5.6.8"
+  }
+}
